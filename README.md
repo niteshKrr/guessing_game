@@ -1,1 +1,1 @@
-![alt text](https://github.com/[niteshKrr]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](/guessing_game/public/pic.png)
