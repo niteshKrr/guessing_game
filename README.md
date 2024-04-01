@@ -1,1 +1,1 @@
-![alt text](/guessing_game/public/pic.png)
+![alt text](/public/pic.png)
